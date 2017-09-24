@@ -6,7 +6,7 @@ public class A2 {
 	}
 	public int getI() {
 		
-		return 111+70;
+		return 11+70;
 		
 	}
 	
